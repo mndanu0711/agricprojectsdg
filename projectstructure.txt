@@ -1,0 +1,12 @@
+agrovet-connect/
+├── server.js
+├── db.js
+├── views/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   └── vets.html
+├── public/
+│   ├── styles.css
+│   └── script.js
+└── package.json
